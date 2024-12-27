@@ -6,7 +6,7 @@ Our code will be available soon!!!
 ----
 ### 1. Pipeline of JSMoCo
 
-  ![Pipeline_ZS_Denoiser-HREM](Fig/Pipeline.png)
+  ![Pipeline_JSMoCo](Fig/pipeline.png)
   Fig. 1: The pipeline of JSMoCo.
 
 ----
