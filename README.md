@@ -16,7 +16,7 @@ Our code will be available soon!!!
 ![Time-varying CSM](Fig/estimed_time_varying_csm.png)
   Fig. 2: Qualitative comparisons of jointly estimated static and time-varying coil sensitivity maps (CSMs) by JSMoCo.
 
-### 3. Motion Correction on *in-vivo* T2w MRI data
+### 3. Motion Correction on *in vivo* T2w MRI data
 
  ![Real_MoCo_AF2](Fig/real_moco_AF2.png)
   Fig. 3: Quantitative comparisons of reconstruction results for motion-corrupted real-world T2w human brain MRI scans with an acceleration factor $R=2$. 
