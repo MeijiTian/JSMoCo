@@ -11,7 +11,7 @@ Our code will be available soon!!!
 
 ----
 
-### 2. Time-Varying Coil Sensitivity Estimation from *in-vivo* data
+### 2. Time-Varying Coil Sensitivity Estimation from *in vivo* data
 
 ![Time-varying CSM](Fig/estimed_time_varying_csm.png)
   Fig. 2: Qualitative comparisons of jointly estimated static and time-varying coil sensitivity maps (CSMs) by JSMoCo.
